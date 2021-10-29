@@ -1,6 +1,8 @@
 ## Welcome to Yeon-Jin
 
-우당탕탕 챗봇
+
+우당탕탕 챗봇 연습
+
 
 You can use the [editor on GitHub](https://github.com/esehsr/pizza/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
